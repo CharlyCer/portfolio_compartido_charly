@@ -1,0 +1,12 @@
+main{
+    background-color: brown;
+    color: aliceblue;
+    text-align: center;
+    width: 500px;
+    height: 300px;
+}
+body{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
